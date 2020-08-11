@@ -1,5 +1,5 @@
-//seeding data
+seeding data--
 php artisan db:seed;
 
-//console command 
+console command-- 
 php artisan notify
